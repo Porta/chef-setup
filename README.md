@@ -1,4 +1,10 @@
 chef-setup
-==========
+===========
+Final steps for server configuration
 
-Chef recipe to set up server.
+
+Attributes
+==========
+app_dir location on remote system where rails project will be found.
+Defaults to "/vagrant".
+
